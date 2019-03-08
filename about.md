@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a researcher and developer at the Music Technology Group from Universitat
+<p>I'm a researcher and developer at the <a href="https://www.upf.edu/web/mtg/">Music Technology Group</a> from Universitat
 Pompeu Fabra (UPF), Barcelona. My fields of interest include signal processing
 and machine learning for audio, speech and music applications.</p>
 
