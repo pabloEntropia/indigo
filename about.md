@@ -19,7 +19,8 @@ and music analysis, description and synthesis.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://essentia.upf.edu/">Essentia</a></li>
+	<li> <i>Actively contributing to </i>
+	 <a href="https://essentia.upf.edu/">Essentia</a></li>
 	<li> <i>Cross-Lingual Voice Conversion with Non-Parallel Data </i>
 	 (<a href="https://zenodo.org/record/1117153#.XIHRTIXgq00">pdf</a>, 
 	 <a href="https://pabloentropia.github.io/voice-conversion-demo.github.io/">demo</a>).</li>
