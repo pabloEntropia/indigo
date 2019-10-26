@@ -21,8 +21,12 @@ and music analysis, description and synthesis.</p>
 <ul>
 	<li> <i>Actively contributing to </i>
 	 <a href="https://essentia.upf.edu/">Essentia</a></li>
+	<li> <i>Automatic Detection of Audio Problems for Quality Control in Digital Music Distribution </i>
+	 (<a href="http://www.aes.org/e-lib/browse.cfm?elib=20338">paper</a>, 
+	 <a href="https://docs.google.com/presentation/d/1dk8sZ5F-b0A-Gw4t8eRwfGpVALBrpucCH9ABlME5Mik/edit?usp=sharing">poster</a>).</li>
 	<li> <i>Cross-Lingual Voice Conversion with Non-Parallel Data </i>
 	 (<a href="https://zenodo.org/record/1117153#.XIHRTIXgq00">pdf</a>, 
 	 <a href="https://pabloentropia.github.io/voice-conversion-demo.github.io/">demo</a>).</li>
+	
 
 </ul>
